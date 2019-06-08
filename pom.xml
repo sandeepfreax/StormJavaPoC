@@ -25,6 +25,12 @@
             <artifactId>twitter4j-stream</artifactId>
             <version>4.0.7</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.storm</groupId>
+            <artifactId>storm-hdfs</artifactId>
+            <version>0.9.3</version>
+        </dependency>
+
     </dependencies>
 
 </project>
